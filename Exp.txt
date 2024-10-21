@@ -1,0 +1,1 @@
+> In this project having 3 main codes are the config.py, main.py and art.py Make changes on that
